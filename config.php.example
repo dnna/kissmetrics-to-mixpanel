@@ -1,0 +1,4 @@
+<?php
+//Both these values are on your mixpanel accounts page: http://mixpanel.com/account/
+define('MIXPANEL_TOKEN', 'xxx');
+define('MIXPANEL_API_KEY', 'yyy');
