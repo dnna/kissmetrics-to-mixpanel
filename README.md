@@ -8,7 +8,7 @@ This script allows you to parse [exported Kissmetrics data](http://support.kissm
 
 ### Step 1: Export the KissMetrics data
 
-This step is simple and KissMetrics has a simple guide: [Follow this steps and come back for the next step.](http://support.kissmetrics.com/apis/data/)
+This step is simple and KissMetrics has a simple guide: [Follow these steps and come back for the next step.](http://support.kissmetrics.com/apis/data/)
 
 ### Step 2: Export your users
 
